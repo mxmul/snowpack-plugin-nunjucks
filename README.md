@@ -1,5 +1,7 @@
 # snowpack-plugin-nunjucks
 
+[![npm][npm]][npm-url]
+
 Render all `.html` and `.njk` templates with [Nunjucks](https://mozilla.github.io/nunjucks/).
 
 ### Usage
@@ -28,3 +30,7 @@ Then add this plugin to your Snowpack config:
 | `path`      | `string`                     | (optional) The template path, as passed to `nunjucks.configure` (default: `process.cwd()`)                                    |
 | `opts`      | `string`                     | (optional) All other options accepted by `nunjucks.configure`.                                                                |
 | `extendEnv` | `(env: Environment) => void` | (optional) A callback that's provided the Nunjucks `Environment` before rendering, which lets you add filters and extensions. |
+
+
+[npm]: https://img.shields.io/npm/v/snowpack-plugin-nunjucks.svg
+[npm-url]: https://npmjs.com/package/snowpack-plugin-nunjucks
