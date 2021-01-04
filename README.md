@@ -2,7 +2,7 @@
 
 [![npm][npm]][npm-url]
 
-Render all `.html` and `.njk` templates with [Nunjucks](https://mozilla.github.io/nunjucks/).
+Use [Nunjucks](https://mozilla.github.io/nunjucks/) to build `.html` and `.njk` files from source.
 
 ### Usage
 
