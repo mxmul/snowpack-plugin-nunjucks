@@ -8,7 +8,7 @@ module.exports = function (snowpackConfig, options) {
   return {
     name: 'snowpack-plugin-nunjucks',
     resolve: {
-      input: ['.njk', '.html'],
+      input: ['.njk'],
       output: ['.html'],
     },
     watchers: {},

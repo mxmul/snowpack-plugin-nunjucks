@@ -2,7 +2,7 @@
 
 [![npm][npm]][npm-url]
 
-Use [Nunjucks](https://mozilla.github.io/nunjucks/) to build `.html` and `.njk` files from source.
+Use [Nunjucks](https://mozilla.github.io/nunjucks/) to build `.njk` files from source.
 
 ### Usage
 
