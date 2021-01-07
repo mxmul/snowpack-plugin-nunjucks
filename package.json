@@ -1,7 +1,7 @@
 {
   "name": "snowpack-plugin-nunjucks",
   "description": "Use Nunjucks to build .njk files from source.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "plugin.js",
   "license": "MIT",
   "homepage": "https://github.com/mxmul/snowpack-plugin-nunjucks/blob/master/README.md",
